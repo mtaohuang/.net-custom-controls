@@ -1,0 +1,6 @@
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\obj\Debug\ControlLibrary.Authenticode.resources
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.Cache
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Workspace\Visual Studio\CSharp程序设计\ControlLibrary\obj\Debug\ControlLibrary.pdb
